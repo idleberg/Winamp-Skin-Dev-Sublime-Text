@@ -1,6 +1,6 @@
 # Winamp Skin Developer for Sublime Text
 
-[Sublime Text](http://www.sublimetext.com/) syntax completions and snippets for [Winamp](http://winamp.com) skin developers.
+[Sublime Text](http://www.sublimetext.com/) syntax completions and snippets for [Winamp](http://winamp.com) skin developers, supporting both Classic and Modern skins.
 
 ## Installation
 
@@ -28,11 +28,7 @@ Start typing a command then hit the tab-key to complete it. Press `Ctrl+Space` t
 
 ### Snippets
 
-This package currently includes three snippets for developers of Classic Skins. The snippets are titled after the text-files they create:
-
-* pledit.txt
-* region.txt
-* viscolor.txt
+This package currently includes three scaffolding snippets for developers of Classic Skins. To trigger these use the `ClassicSkin`-prefix and select a configuration file you want to create (pledit.txt, region.txt, or viscolor.txt)
 
 ## License
 
