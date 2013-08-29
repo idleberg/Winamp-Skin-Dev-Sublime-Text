@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+[Normal]
+NumPoints=${1}
+PointList=${2}
+
+[WindowShade]
+NumPoints=${3}
+PointList=${4}
+
+[Equalizer]
+NumPoints=${5}
+PointList=${6}
+
+[EqualizerWS]
+NumPoints=${7}
+PointList=${8}
+]]></content>
+	<tabTrigger>ClassicSkin__region.txt</tabTrigger>
+	<scope>text.plain,source.ini</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+[Text]
+Normal=${1:#${2:RR}${3:GG}${4:BB}}
+Current=${5:#${6:RR}${7:GG}${8:BB}}
+NormalBG=${9:#${10:RR}${11:GG}${12:BB}}
+SelectedBG=${13:#${14:RR}${15:GG}${16:BB}}
+MbFG=${17:#${18:RR}${19:GG}${20:BB}}
+MbBG=${21:#${22:RR}${23:GG}${24:BB}}
+Font=${25:font}
+]]></content>
+	<tabTrigger>ClassicSkin__pledit.txt</tabTrigger>
+	<scope>text.plain,source.ini</scope>
+</snippet>

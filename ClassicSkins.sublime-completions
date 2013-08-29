@@ -1,0 +1,18 @@
+{
+        "scope": "text.plain,source.ini",
+
+        "completions":
+        [
+                { "trigger": "Current", "contents": "Current=" },
+                { "trigger": "Font", "contents": "Font=" },
+                { "trigger": "MbBG", "contents": "MbBG=" },
+                { "trigger": "MbFG", "contents": "MbFG=" },
+                { "trigger": "Normal", "contents": "Normal=" },
+                { "trigger": "NormalBG", "contents": "NormalBG=" },
+                { "trigger": "NumPoints", "contents": "NumPoints=" },
+                { "trigger": "PointList", "contents": "PointList=" },
+                { "trigger": "SelectedBG", "contents": "SelectedBG=" },
+
+                { /* It ain"t over "til the fat lady sings */ }
+        ]
+}               
