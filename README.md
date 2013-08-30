@@ -24,11 +24,16 @@
 
 ### Completions
 
-Start typing a command then hit the tab-key to complete it. Press `Ctrl+Space` to force showing the completion pop-up where you can select between similar commands. Also included are completions for colors in RGB and hexadecimal format, all CSS3 colors will be completed to the respective format.
+Start typing any XML tag or property, then hit the tab-key to complete it. Since by default the completion pop-up shows up only for the `source` scope , there are two options to make use of it:
+
+1. Press `Ctrl+Space` to force showing the completion pop-up
+2. Add the appropriate scopes (`text.plain` for classic and `text.xml`for modern skins) to the `auto_complete_selector` user setting
+
+Also included are completions for colors in RGB and hexadecimal format, all [CSS3 colors](http://www.w3.org/TR/css3-color/) will be completed to the respective format.
 
 ### Snippets
 
-This package currently includes three scaffolding snippets for developers of Classic Skins. To trigger these use the `ClassicSkin`-prefix and select a configuration file you want to create (pledit.txt, region.txt, or viscolor.txt)
+This package currently includes three scaffolding snippets for developers of Classic Skins. To trigger these use the `ClassicSkin`-prefix and select a configuration file you want to create (`pledit.txt`, `region.txt`, or `viscolor.txt`)
 
 ## License
 
