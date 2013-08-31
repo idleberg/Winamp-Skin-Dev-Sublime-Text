@@ -24,7 +24,7 @@
 
 ### Completions
 
-Start typing any XML tag or property, then hit the tab-key to complete it. Since by default the completion pop-up shows up only for the `source` scope , there are two options to make use of it:
+Start typing any XML tag or property, then hit the `Tab` key to complete it. Since by default the completion pop-up shows up only for the `source` scope , there are two options to make use of it:
 
 1. Press `Ctrl+Space` to force showing the completion pop-up
 2. Add the appropriate scopes (`text.plain` for classic and `text.xml`for modern skins) to the `auto_complete_selector` user setting
