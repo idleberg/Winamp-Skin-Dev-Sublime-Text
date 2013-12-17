@@ -150,7 +150,7 @@
                 { "trigger": "hex__whitesmoke", "contents": "#f5f5f5" },
                 { "trigger": "hex__yellow", "contents": "#ffff00" },
                 { "trigger": "hex__yellowgreen", "contents": "#9acd32" },
-
+                
                 { "trigger": "rgb__aliceblue", "contents": "240,248,255" },
                 { "trigger": "rgb__antiquewhite", "contents": "250,235,215" },
                 { "trigger": "rgb__aqua", "contents": "0,255,255" },
