@@ -1,4 +1,4 @@
-# Winamp Skin Developer for Sublime Text
+# Winamp Skin Developer [![Build Status](https://secure.travis-ci.org/idleberg/Winamp-Skin-Dev-Sublime-Text.png)](http://travis-ci.org/idleberg/Winamp-Skin-Dev-Sublime-Text)
 
 [Sublime Text](http://www.sublimetext.com/) syntax completions and snippets for [Winamp](http://winamp.com) skin developers, supporting both Classic and Modern skins.
 

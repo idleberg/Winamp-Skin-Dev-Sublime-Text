@@ -4,12 +4,12 @@
         "completions":
         [
 
-                // XML Containing objects - http://wiki.winamp.com/wiki/XML_Containing_objects
+                { "XML Containing objects": "http://wiki.winamp.com/wiki/XML_Containing_objects" },
                 { "trigger": "container", "contents": "<container${1}>\n\t${2}\n<\/container>" },
                 { "trigger": "layout", "contents": "<layout${1}>\n\t${2}\n<\/layout>" },
                 { "trigger": "WasabiXML", "contents": "<WasabiXML version=\"${1:int}\">\n\t${2}\n<\/WasabiXML>" },
                 
-                // XML Elements - http://wiki.winamp.com/wiki/XML_Elements
+                { "XML Elements": "http://wiki.winamp.com/wiki/XML_Elements" },
                 { "trigger": "bitmap", "contents": "<bitmap ${1} />" },
                 { "trigger": "bitmapfont", "contents": "<bitmapfont ${1} />" },
                 { "trigger": "truetypefont", "contents": "<truetypefont ${1} />" },
@@ -17,7 +17,7 @@
                 { "trigger": "elementalias", "contents": "<elementalias ${1} />" },
                 { "trigger": "cursor", "contents": "<cursor ${1} />" },
 
-                // XML GUI Objects - http://wiki.winamp.com/wiki/XML_GUI_Objects
+                { "XML GUI Objects": "http://wiki.winamp.com/wiki/XML_GUI_Objects" },
                 { "trigger": "AlbumArt", "contents": "<AlbumArt ${1} />" },
                 { "trigger": "animatedlayer", "contents": "<animatedlayer ${1} />" },
                 { "trigger": "button", "contents": "<button ${1} />" },
@@ -69,7 +69,7 @@
                 { "trigger": "Winamp:Browser", "contents": "<Winamp:Browser ${1} />" },
                 { "trigger": "wndholder", "contents": "<wndholder ${1} />" },
 
-                // XML attributes
+                { "#": "XML attributes" },
 				{ "trigger": "action", "contents": "action=\"${1:str}\"" },
 				{ "trigger": "action_target", "contents": "action_target=\"${1:id}\"" },
 				{ "trigger": "activealpha", "contents": "activealpha=\"${1:int}\"" },
@@ -367,7 +367,7 @@
 				{ "trigger": "y1", "contents": "y1=\"${1:int}\"" },
 				{ "trigger": "y2", "contents": "y2=\"${1:int}\"" },
 
-				// Action List http://wiki.winamp.com/wiki/Wasabi_Appendix:_Action_List
+				{ "Action List": "http://wiki.winamp.com/wiki/Wasabi_Appendix:_Action_List" },
 				{ "trigger": "ADD_BOOKMARK", "contents": "ADD_BOOKMARK" },
 				{ "trigger": "CB_NEXT", "contents": "CB_NEXT" },
 				{ "trigger": "CB_PREV", "contents": "CB_PREV" },
@@ -426,7 +426,7 @@
 				{ "trigger": "VOLUME_DOWN", "contents": "VOLUME_DOWN" },
 				{ "trigger": "VOLUME_UP", "contents": "VOLUME_UP" },
 
-				// Cursors - http://wiki.winamp.com/wiki/Wasabi_Appendix:_Cursors
+				{ "Cursors": "http://wiki.winamp.com/wiki/Wasabi_Appendix:_Cursors" },
 				{ "trigger": "IDC_APPSTARTING", "contents": "IDC_APPSTARTING" },
 				{ "trigger": "IDC_ARROW", "contents": "IDC_ARROW" },
 				{ "trigger": "IDC_CROSS", "contents": "IDC_CROSS" },
@@ -442,7 +442,7 @@
 				{ "trigger": "IDC_UPARROW", "contents": "IDC_UPARROW" },
 				{ "trigger": "IDC_WAIT", "contents": "IDC_WAIT" },
 
-                { /* It ain"t over "til the fat lady sings */ }
+                { "note": "It ain't over 'til the fat lady sings" }
         ]
 }
 

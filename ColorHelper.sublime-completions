@@ -299,6 +299,6 @@
                 { "trigger": "rgb__yellow", "contents": "255,255,0" },
                 { "trigger": "rgb__yellowgreen", "contents": "154,205,50" },
 
-                { /* It ain"t over "til the fat lady sings */ }
+                { "note": "It ain't over 'til the fat lady sings" }
         ]
 }               
