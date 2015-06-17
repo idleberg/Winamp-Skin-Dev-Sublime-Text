@@ -1,4 +1,7 @@
-# Winamp Skin Developer [![Build Status](https://secure.travis-ci.org/idleberg/Winamp-Skin-Dev-Sublime-Text.png)](http://travis-ci.org/idleberg/Winamp-Skin-Dev-Sublime-Text)
+# Winamp Skin Developer
+
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![Travis](https://img.shields.io/travis/idleberg/Winamp-Skin-Dev-Sublime-Text.svg?style=flat-square)](https://travis-ci.org/idleberg/Winamp-Skin-Dev-Sublime-Text)
 
 [Sublime Text](http://www.sublimetext.com/) syntax completions and snippets for [Winamp](http://winamp.com) skin developers, supporting both Classic and Modern skins.
 
